@@ -117,5 +117,11 @@ For more details, please refer: https://openreview.net/pdf?id=rkX9Z_kwf
 See the file `LICENSE` for details.
 Some code snippets have been taken from Keras (see `LICENSE_keras`) and the PyTorch (see `LICENSE_pytorch`). See comments in the source code for details.
 
-## References
-[1] Goyal et al. ‘The “something something” video database for learning and evaluating visual common sense.’ arXiv preprint arXiv:1706.04261 (2017). In ICCV 2017.
+## Reference
+If you use our code, dataset or pre-trained models, please cite our paper:
+```
+@inproceedings{goyal2017something,
+  title={The” something something” video database for learning and evaluating visual common sense},
+  author={Goyal, Raghav and Kahou, Samira Ebrahimi and Michalski, Vincent and Materzynska, Joanna and Westphal, Susanne and Kim, Heuna and Haenel, Valentin and Fruend, Ingo and Yianilos, Peter and Mueller-Freitag, Moritz and others}
+}
+```
