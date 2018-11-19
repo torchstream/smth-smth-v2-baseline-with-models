@@ -1,4 +1,4 @@
-# something-something-v2-baseline
+# smth-smth-v2-baseline-with-models
 Contains code and pretrained models to get you started with a baseline on version 2 of "something-something" dataset
 
 - Paper: https://arxiv.org/abs/1706.04261
